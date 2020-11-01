@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  border-style: solid;
+  border-color: yellow;
+  width: 300px;
+  height: 180px;
+  flex-wrap: wrap;
+  background-color: dimgrey;
+  border-radius: 20px
+}
+.carddiv {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+
+}
+.rateup {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  margin-top: -93px;
+  border-top: solid;
+  color: white;
+  border-color: yellow;
+  padding-left:  10px;
+
+}
+.p1 {
+  font-size: 10pt;
+  margin-bottom: 2px;
+  margin-top: -0.5px;
+}

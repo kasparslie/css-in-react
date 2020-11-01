@@ -1,0 +1,10 @@
+.stars {
+    display: flex;
+    width: 40px;
+    height: 10px;
+}
+path {
+    display: flex;
+    width: 40px;
+    height: 10px;
+}
